@@ -1,3 +1,7 @@
+package primeiropacote;
+/** PACKAGE: é um mecanismo que permite definir a qual pacote/pasta uma classe pertence, evitando conflitos de nomes e oome do pacote e escrito em letras minúsculas por convenção da linguagem Java.
+*/
+
 public class PrimeiroPrograma {
     /** PUBLIC: significa que a classe/método pode ser acessado de qualquer lugar da aplicação
         CLASS: é um modelo para criar objetos aonde você pode passar métodos e atributos */
