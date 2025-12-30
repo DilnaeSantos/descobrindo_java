@@ -1,10 +1,10 @@
 package primeiropacote;
-/** PACKAGE: é um mecanismo que permite definir a qual pacote/pasta uma classe pertence, evitando conflitos de nomes e oome do pacote e escrito em letras minúsculas por convenção da linguagem Java.
+/** PACKAGE: é um mecanismo que permite definir a qual pacote/pasta uma classe pertence, evitando conflitos de nomes, e o nome do pacote é escrito em letras minúsculas por convenção da linguagem Java. porque?? não faço ideia!!
 */
 
 public class PrimeiroPrograma {
-    /** PUBLIC: significa que a classe/método pode ser acessado de qualquer lugar da aplicação
-        CLASS: é um modelo para criar objetos aonde você pode passar métodos e atributos */
+    /** PUBLIC: significa que a classe/método pode ser acessado de qualquer lugar da aplicação (dss outras pastas e arquivos)
+        CLASS: é um modelo para criar objetos aonde você pode passar métodos e atributos (e como uma pré-definição tipo um carro tem 4 rodas 4 portas 1 motor etc, e depois vc pega esse modelo e define as características de cada um as rodas vai ser de tal polegada o motor vai ser de tal potência etc.) */
     public static void main(String[] args) {
     // esse é o MÉTODO principal, onde a aplicação começa a ser executada
     /** MÉTODO: é uma sequência de instruções que realiza uma tarefa específica
@@ -25,7 +25,7 @@ public class PrimeiroPrograma {
 
 // código não comentado
 /* OBS: só pode existir UMA public class por arquivo, e isso é uma regra obrigatória da linguagem, porque a class
-e o proprio arquivo por isso tem o mesmo nome.
+e o próprio arquivo por isso tem o mesmo nome.
 nesse caso, para exemplificar, criamos uma segunda classe pública em um mesmo arquivo.
 */
 public class PrimeiroPrograma2 {
@@ -33,3 +33,10 @@ public class PrimeiroPrograma2 {
         System.out.println("Hello, World!");
     }
 }
+
+// saída esperada
+/*
+D:\Rennan\descobrindo-java\descobrindojava> cmd /C ""C:\Program Files\Java\jdk-25\bin\java.exe" --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp D:\Rennan\descobrindo-java\descobrindojava\bin primeiropacote.PrimeiroPrograma "
+Hello, World!
+
+*/
