@@ -1,5 +1,5 @@
 package primeiropacote; // e o nome da pasta onde o arquivo esta salvo
-/** PACKAGE: é um mecanismo que permite definir a qual pacote/pasta uma classe pertence, evitando conflitos de nomes, e o nome do pacote é escrito em letras minúsculas por convenção da linguagem Java. porque?? não faço ideia!!
+/** PACKAGE: é um mecanismo que permite definir a qual pacote/pasta uma classe pertence, evitando conflitos de nomes, e o nome do pacote é escrito em letras minúsculas por convenção da linguagem Java. porque?? não faço ideia!!!
 */
 
 public class PrimeiroPrograma { // e o nome do arquivo
