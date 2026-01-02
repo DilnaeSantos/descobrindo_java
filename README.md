@@ -1,4 +1,4 @@
-Olá, como vai!! esse repositorio e como uma documentação java totalmente em português com explicações de código feitas pela meu entendimento e baseadas do [curso em video](https://www.youtube.com/watch?v=ijXXaIYsVx4&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=16).
+Olá, como vai!! esse repositorio e como uma documentação java totalmente em português com explicações de código feitas pelo meu entendimento e baseadas do [curso em video](https://www.youtube.com/watch?v=ijXXaIYsVx4&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=16).
 
 ## Começando
 
